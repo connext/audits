@@ -19,3 +19,15 @@ Connext has undergone several audits associated with different versions of the p
 ### [Jan 2023](https://github.com/connext/audits/blob/main/amarok/Connext_A-1__Macro_Audits.pdf)
 
 - Auditor: [Macro](https://0xmacro.com/)
+
+### [July 2023](https://0xmacro.com/library/audits/connext-2)
+
+- Auditor: [Macro](https://0xmacro.com/)
+
+### [July 2023](https://0xmacro.com/library/audits/connext-3)
+
+- Auditor: [Macro](https://0xmacro.com/)
+
+### [October 2023](https://0xmacro.com/library/audits/connext-4)
+
+- Auditor: [Macro](https://0xmacro.com/)
